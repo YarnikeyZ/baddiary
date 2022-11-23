@@ -89,8 +89,8 @@ def main():
     prepare(
         firefox_binary=r'C:\\Program Files\\Mozilla Firefox\\firefox.exe',
         geckodriver=r'D:\python_p\\geckodriver.exe',
-        login='vladimirtokareva',
-        password='atljh1603'
+        login='login',
+        password='password'
     )
     display(
         frames=frames,
